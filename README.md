@@ -5,9 +5,6 @@
 
 <h3 align="center">A backend developer (who's also studying Data Engineering!) from Egypt!</h3>
 
-
-- 🔭 I’m currently working on [My Bug Tracker App!](https://github.com/ACrafter/Bug-Tracker)
-
 - 🌱 I’m currently learning **Apache Spark & Kafka**
 
 - 💬 Ask me about **node, express and postgreSQL**
